@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fun Times Jar</string>
+    <string name="type_your_activity_here">Type your activity here</string>
+    <string name="submit_button">submit button</string>
+</resources>
